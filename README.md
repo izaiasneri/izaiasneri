@@ -39,8 +39,10 @@ Sou um entusiasta da **programação Python** e busco constantemente integrar a 
 
 -----
 
+
+
 <p style="color:#FF5733;"> Sinta-se à vontade para explorar meus repositórios e projetos\! </p>
-<span style="color:green;">Python</span>, <span style="color:red;">HTML</span>
+
 
 -----
 
