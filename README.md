@@ -33,12 +33,9 @@ Sou um entusiasta da **programação Python** e busco constantemente integrar a 
 ### Linguagens e Ferramentas que Gosto de Usar:
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width:40px; height:40px"/>](https://www.python.org/)
-
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width:40px; height:40px"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-          
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width:40px; height:40px"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:40px; height:40px"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 -----
 
