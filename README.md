@@ -39,7 +39,7 @@ Sou um entusiasta da **programação Python** e busco constantemente integrar a 
 
 -----
 
-Sinta-se à vontade para explorar meus repositórios e projetos\!
+<p style="color:#FF5733;"> Sinta-se à vontade para explorar meus repositórios e projetos\! </p>
 
 -----
 
