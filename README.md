@@ -1,16 +1,17 @@
+
 -----
 
-# Olá\! Sou Izaias Neri 👋
+# Olá\! Sou Izaias Neri :raising_hand:
 
 Sou um educador e tecnólogo apaixonado por **Matemática** e **Tecnologia Educacional**, com uma sólida formação acadêmica e experiência prática no ensino superior. Atualmente, leciono Matemática para cursos de Engenharia no Senac, onde aplico **metodologias ativas** para tornar o aprendizado mais dinâmico e eficaz.
 
-Sou um entusiasta da **programação Python** e busco constantemente integrar a tecnologia no processo educacional para desenvolver soluções inovadoras.
+Sou um entusiasta da **programação Python** :snake: e busco constantemente integrar a tecnologia no processo educacional para desenvolver soluções inovadoras.
 
 -----
 
 ### Minha Jornada Acadêmica e Profissional:
 
-  * **Licenciatura em Matemática** pelo Instituto de Matemática e Estatística da USP (IME-USP)
+  * **Licenciatura em Matemática** pelo Instituto de Matemática e Estatística da USP (IME-USP).
   * **Especialização em Educação Matemática** pela UNISA
   * **Especialização em Metodologias Ativas e Tecnologias Educacionais** pela UNITALO
   * **Mestrado em Educação Matemática** pela UNIBAN
@@ -30,19 +31,30 @@ Sou um entusiasta da **programação Python** e busco constantemente integrar a 
 
 -----
 
-### Linguagens e Ferramentas que Gosto de Usar:
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width:40px; height:40px"/>](https://www.python.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width:40px; height:40px"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width:40px; height:40px"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:40px; height:40px"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+<h3 style="color:#ffd700">Linguagens e Ferramentas que Gosto de Usar:</h3>
+
+
+<div align="center" style="background-color:white">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width:40px; height:40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" style="width:40px; height:40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" style="width:40px; height:40px;"/>
+          
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width:40px; height:40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width:40px; height:40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:40px; height:40px;"/>
+          
+</div>
+
+<br><br><br>
+
+<p align="center">
+Sinta-se à vontade para explorar meus repositórios e projetos\!
+</p>
 
 -----
 
 
-
-<p style="color:#FF5733;"> Sinta-se à vontade para explorar meus repositórios e projetos\! </p>
-
-
------
 
