@@ -53,9 +53,6 @@ Sou um entusiasta da **programação Python** :snake: e busco constantemente int
 <p align="center">
 Sinta-se à vontade para explorar meus repositórios e projetos\!
 </p>
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 -----
 
