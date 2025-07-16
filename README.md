@@ -32,7 +32,7 @@ Sou um entusiasta da **programação Python** e busco constantemente integrar a 
 
 ### Linguagens e Ferramentas que Gosto de Usar:
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width:120; height:120"/>](https://www.python.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width:120px; height:120px"/>](https://www.python.org/)
 [](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
