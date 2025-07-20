@@ -1,5 +1,42 @@
 
+-----
+
+# Olá\! Sou Izaias Neri :raising_hand:
+
+Sou um educador e tecnólogo apaixonado por **Matemática** e **Tecnologia Educacional**, com uma sólida formação acadêmica e experiência prática no ensino superior. Atualmente, leciono Matemática para cursos de Engenharia no Senac, onde aplico **metodologias ativas** para tornar o aprendizado mais dinâmico e eficaz.
+
+Sou um entusiasta da **programação Python** :snake: e busco constantemente integrar a tecnologia no processo educacional para desenvolver soluções inovadoras.
+
+-----
+
+### Minha Jornada Acadêmica e Profissional:
+
+  * **Licenciatura em Matemática** pelo Instituto de Matemática e Estatística da USP (IME-USP).
+  * **Especialização em Educação Matemática** pela UNISA
+  * **Especialização em Metodologias Ativas e Tecnologias Educacionais** pela UNITALO
+  * **Mestrado em Educação Matemática** pela UNIBAN
+  * **Graduação Tecnológica em Análise e Desenvolvimento de Sistemas** pelo Centro Universitário Senac (SENAC-SP)
+  * **Extensão Universitária em Estatística com Ciência de Dados e Pesquisa Operacional**
+
+-----
+
+### Habilidades e Interesses:
+
+  * Ensino de Matemática para nível superior
+  * Metodologias Ativas de Aprendizagem
+  * Tecnologias Educacionais
+  * Programação e Desenvolvimento de Sistemas
+  * Estatística e Ciência de Dados
+  * Pesquisa Operacional
+
+-----
+
+
+<br>
+
+
 ###
+# Tecnologias que mais uso
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -29,6 +66,12 @@
 
 ###
 
+<br>
+
+
+
+<h2> Nostalgia </h2>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/izaiasneri/izaiasneri/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/izaiasneri/izaiasneri/output/pacman-contribution-graph.svg">
@@ -49,13 +92,24 @@
 
 ###
 
+
+
+
+# Visite minhas redes sociais 
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <a href="https://www.linkedin.com/in/izaias-neri-076033b9/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@izaiasneri" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/prof.izaiasneri/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/prof.izaiasneri" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
+  </a>
 </div>
 
 ###
