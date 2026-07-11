@@ -16,7 +16,8 @@ Sou um entusiasta da **programação Python** :snake: e busco constantemente int
   * **Especialização em Metodologias Ativas e Tecnologias Educacionais** pela UNITALO
   * **Mestrado em Educação Matemática** pela UNIBAN
   * **Graduação Tecnológica em Análise e Desenvolvimento de Sistemas** pelo Centro Universitário Senac (SENAC-SP)
-  * **Extensão Universitária em Estatística com Ciência de Dados e Pesquisa Operacional**
+  * **Extensão Universitária em Estatística com Ciência de Dados e Pesquisa Operacional (ICMC-USP)**
+  * **Exetensão Universitária em Fudamentos de Probabilidade e Estatística para Ciência de Dados (ICMC-USP)**
 
 -----
 
